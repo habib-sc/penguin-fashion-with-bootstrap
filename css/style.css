@@ -1,27 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap');
-
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
-header{
+
+header {
     background-color: #FFFBF0;
 }
-header nav{
+
+header nav {
     background-color: #FFFBF0;
     min-height: 80px;
 }
-.header-banner{
+
+.header-banner {
     height: calc(100vh - 80px);
 }
-.pngn-text-yellow{
+
+.pngn-text-yellow {
     color: #FABE4C;
 }
-.pngn-text-dark-blue{
-    color: #363958; 
+
+.pngn-text-dark-blue {
+    color: #363958;
 }
-.pngn-bg-light-green{
+
+.pngn-bg-light-green {
     background-color: #A4BC46;
 }
-.pngn-f-bebas{
+
+.pngn-f-bebas {
     font-family: 'Bebas Neue', cursive;
+}
+
+.pngn-b-radius {
+    border-radius: 12px;
+}
+
+.product-bg {
+    background-color: #F1F1F1;
 }
