@@ -12,7 +12,9 @@ header nav {
 }
 
 .header-banner {
-    height: 100vh;
+    height: calc(100vh - 80px);
+    margin-top: 80px;
+    overflow: hidden;
 }
 
 .pngn-text-yellow {
