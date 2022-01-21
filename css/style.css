@@ -3,12 +3,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-header {
+.pngn-bg {
     background-color: #FFFBF0;
 }
 
 header nav {
-    background-color: #FFFBF0;
     min-height: 80px;
 }
 
